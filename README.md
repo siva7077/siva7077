@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siva7077
+- 👋 Hi, I’m Siva @siva7077
 - 👀 I’m interested in Python
 - 🌱 I’m a MCA Graduate
 - 💞️ I’m looking to collaborate on ...
