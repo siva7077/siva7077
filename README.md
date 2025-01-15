@@ -38,66 +38,6 @@ Integrated Development Environment: Jupyter-Notebook, PyCharm.
 
 
 
-
-
-
-
-# Welcome to My GitHub Profile! 
-
-## 👋 About Me
-Hi, I’m **Siva** (@siva7077) – a passionate **Data Scientist** with 1.6 years of experience in the field of **Data Science**, **AI**, **ML**, and **Large Language Models (LLMs)**. 
-
-- **🌱 Academic Background:** Master’s in Computer Applications (MCA)
-- **🤝 Collaboration:** I’m open to collaborating on exciting Data Science and Machine Learning projects. If you need a helping hand, feel free to reach out!
-- **💬 Need Help?** If you get stuck on any of my repositories, don't hesitate to contact me. I’m here to help!
-- **📫 How to Reach Me:** 
-  - Email: [sivakumargangaramesh@gmail.com](mailto:sivakumargangaramesh@gmail.com)
-  - WhatsApp: [Message Me](https://wa.me/+919539123525)
-
----
-
-## 🛠 Tech Stack
-
-### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Machine Learning & Deep Learning Frameworks
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-
-### Libraries
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-
-### Natural Language Processing
-![NLTK](https://img.shields.io/badge/NLTK-%231B4332.svg?style=for-the-badge&logo=NLTK&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-%230C55A5.svg?style=for-the-badge&logo=BERT&logoColor=white)
-
-### Visualization & Image Processing
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%234285F4.svg?style=for-the-badge&logo=Matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%230E76A8.svg?style=for-the-badge&logo=Seaborn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6F00.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
-
-### Cloud Services
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-%2305C3DD.svg?style=for-the-badge&logo=Kaggle&logoColor=white)
-
-### Development Tools
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
-
----
-
-## 🚀 Tools | Frameworks Expertise
-- **Data Preprocessing:** NumPy, Pandas
-- **Machine Learning Frameworks:** Scikit-Learn, TensorFlow, PyTorch, Hugging Face Transformers, Keras, Gradio
-- **NLP Tools:** NLTK, BERT
-- **Data Visualization:** Matplotlib, Seaborn
-- **Image Processing:** OpenCV
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=siva7077&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=siva7077&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siva7077&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ### 🚀 Let’s Build Together
 If you have an idea or project and want to collaborate, I’d love to hear from you. Let’s create something amazing together!
 
