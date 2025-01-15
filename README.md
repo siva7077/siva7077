@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siva @siva7077
-- 👀 I’m interested in Python and Data Science
+- 👀 I’m interested in Python , Data Science , AI , ML , LLM
 - would like to do data science project and if you need a third hand reach me out I'm glad to join to your work and give a hand.
 - 🌱 I’m a MCA Graduate
 - 🤝 I'm open for collaborations in Data Science and Machine Learning domains
