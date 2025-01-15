@@ -12,3 +12,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
+### 🔧 Featured Projects
+- [**Project Name**](https://github.com/your-repo): A short description of the project.
+- [**Another Project**](https://github.com/your-repo): An exciting project that does X, Y, and Z.
