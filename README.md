@@ -33,9 +33,10 @@ Integrated Development Environment: Jupyter-Notebook, PyCharm.
 
 ![](https://github-readme-stats.vercel.app/api?username=siva7077&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+![](https://github-readme-streak-stats.herokuapp.com?user=siva7077&theme=dark&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siva7077&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com?user=siva7077&theme=dark&hide_border=true)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=siva7077&limit=5&theme=dark&combine_all_yearly_contributions=true)
