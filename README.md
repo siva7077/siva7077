@@ -40,3 +40,82 @@ Integrated Development Environment: Jupyter-Notebook, PyCharm.
 ### 🚀 Let’s Build Together
 If you have an idea or project and want to collaborate, I’d love to hear from you. Let’s create something amazing together!
 
+
+
+
+
+
+
+
+
+
+
+
+
+# Welcome to My GitHub Profile! 👋
+
+![Animated Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F7F7F7&background=000000&vCenter=true&multiline=true&width=800&height=50&lines=Hi%2C+I'm+Siva%2C+a+Data+Scientist!;Specialized+in+AI%2C+ML%2C+Deep+Learning+%26+LLMs!;Let's+collaborate+on+exciting+projects!)
+
+---
+
+## 👋 About Me
+- 🌟 **Siva (@siva7077)** – 1.6 years of experience as a **Data Scientist**.
+- 💡 I specialize in **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Large Language Models (LLMs)**.
+- 🌱 **Education:** Master’s in Computer Applications (MCA).
+- 🤝 **Collaborations:** Open to innovative projects in AI, LLMs, and more.
+- 📫 **Contact Me:**
+  - Email: [sivakumargangaramesh@gmail.com](mailto:sivakumargangaramesh@gmail.com)
+  - WhatsApp: [Message Me](https://wa.me/+919539123525)
+
+---
+
+## 🛠 Tech Stack
+
+![Tech Stack Animation](https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,scipy,matplotlib,seaborn,nltk,openai,java,cpp,git,github,vscode,pycharm,aws,gcp)
+
+---
+
+## 🚀 Expertise Areas
+### Programming & Tools:
+- **Languages:** Python, Java, C++.
+- **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-Learn, Keras, Hugging Face Transformers.
+- **NLP & LLMs:** NLTK, SpaCy, BERT, OpenAI APIs.
+- **Visualization:** Matplotlib, Seaborn, Plotly.
+- **Image Processing:** OpenCV.
+- **Cloud Platforms:** Google Colab, Kaggle, AWS, Azure.
+
+---
+
+## 📊 GitHub Stats & Contributions
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siva7077&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" height="180em">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siva7077&theme=radical&hide_border=true" alt="Streak Stats" height="180em">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siva7077&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em">
+</div>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=siva7077&theme=github-dark&hide_border=true&area=true" alt="Activity Graph">
+</div>
+
+---
+
+### 🏆 Achievements & Highlights
+
+- 🥇 **Projects Completed:** Successfully delivered multiple AI and ML projects.
+- 🌍 **Global Collaborations:** Worked with contributors worldwide.
+- 🚀 **Goal:** Building and fine-tuning innovative AI-driven applications and tools.
+
+---
+
+## 🌟 Let's Build Together!
+If you're passionate about creating groundbreaking AI solutions or need help with your data science journey, feel free to reach out. Let's innovate together!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FFFFFF&background=000000&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Happy+Coding!+🚀" />
+</p>
+
+
