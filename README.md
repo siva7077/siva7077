@@ -15,7 +15,7 @@
 # Tools | Frameworks
 Data Preprocessing: NumPy, Pandas.
 
-Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch, Tensorflow, Hugging Face Transformers, Keras, Gradio.
+Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch, Tensorflow, Hugging Face Transformers, Keras.
 
 Natural Language Processing: NLTK, BERT.
 
