@@ -5,7 +5,7 @@
 - 🤝 I'm open for collaborations in Data Science and Machine Learning domains
 - 📫 reach me sivakumargangaramesh@gmail.com
 - https://wa.me/+919539123525
-- if you stuck at some where on my respo dont hesitate jus reach me out.
+- if you stuck at some where on my repo dont hesitate jus reach me out.
 
 
 
