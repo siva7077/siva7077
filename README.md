@@ -35,6 +35,7 @@ Integrated Development Environment: Jupyter-Notebook, PyCharm.
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=siva7077&theme=dark&hide_border=true)<br/>
 [![](https://github-readme-streak-stats.herokuapp.com?user=siva7077)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=siva7077" alt="GitHub Streak" /></a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siva7077&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
