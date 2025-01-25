@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python , Data Science , AI , ML , LLM
 - 🌱 MCA - Pondicherry University Campus 2022 
 - 🤝 I'm open for collaborations in Data Science and Machine Learning domains
-- 📫 reach me sivakumargangaramesh@gmail.com
+- 📫 reach me sivakumargangaramesh@gmail.com 
 - https://wa.me/+919539123525
 
 
